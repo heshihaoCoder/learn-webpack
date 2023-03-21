@@ -6,10 +6,10 @@
   - 现在的开发必须通过模块化来开发
   
 # webpack是什么？
-```
-webpack is a static module bundler for modern JavaScript applications.
-webpack是一个静态的模块化打包工具，为现代的JavaScript应用程序。
-```
+
+`webpack is a static module bundler for modern JavaScript applications.
+webpack是一个静态的模块化打包工具，为现代的JavaScript应用程序。`
+
 - **我们对上面的解释进行拆解:**
   - 打包bundler：webpack可以帮助我们进行打包，所以它是一个打包工具；
   - 静态的static：这样表述的原因是我们最终可以将代码打包成最终的静态资源（部署到静态服务器）；
